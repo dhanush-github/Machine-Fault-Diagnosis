@@ -104,7 +104,7 @@ Evaluation & Visualization
 ## 📁 Files Included
 
 - `Machine Fault Diagnosis & Prognosis.pptx` — Methodology & presentation
-- *Notebook/codebase and sample data files (add links if in repo)*
+
 
 ---
 
