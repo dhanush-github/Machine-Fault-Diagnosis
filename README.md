@@ -1,13 +1,5 @@
 ---
 
-```markdown
-# 🏭 Machine Fault Diagnosis & Prognosis
-
-**Author:** N. Sai Dhanush  
-**Guide:** Dr. Ambika P.S, CEN Dept, Amrita Vishwa Vidyapeetham
-
----
-
 ## 🚀 Project Overview
 
 This project tackles the crucial challenge of early fault detection and failure prediction in rotating machinery—using state-of-the-art statistical, machine learning, and deep learning techniques.  
